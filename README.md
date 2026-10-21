@@ -19,7 +19,7 @@ Total sales (2019 to 2022):  ~$45,134
 
 Top country:   United States (~$35,639, about 79% of sales)
 
-Second / third country:  Ireland (~$6,697) / United Kingdom (~$2,799)
+Second / third country:  Ireland (~$6,697) and United Kingdom (~$2,799)
 
 Top customer: 	Allis Wilmore (~$317)
 
