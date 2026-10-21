@@ -11,3 +11,20 @@ Which countries generate the most revenue?
 Who are the top 5 customers by sales?
 
 How do roast type, size, and loyalty card status affect sales?
+
+
+# Key Findings
+
+Total sales (2019 to 2022):  ~$45,134
+
+Top country:   United States (~$35,639, about 79% of sales)
+
+Second / third country:  Ireland (~$6,697) / United Kingdom (~$2,799)
+
+Top customer: 	Allis Wilmore (~$317)
+
+2019 sales: 	~$12,187 (Excelsa was the top coffee type at ~$3,481)
+
+
+
+
