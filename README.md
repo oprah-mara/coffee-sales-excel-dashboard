@@ -65,8 +65,6 @@ Source file: [`data/coffeeOrdersData.xlsx`](data/coffeeOrdersData.xlsx)
 | `customers` | 1,000 | Customer ID, name, email, phone, address, city, country, postcode, loyalty card (Yes/No) |
 | `products` | 48 | Product ID, coffee type, roast, size (kg), unit price, price per 100g, profit per unit |
 | `clean data` | 1,000 | Merged, analysis-ready table (16 columns) |
-| `TotalSales`, `CountryBySales`, `TopFiveCustomers` | n/a | PivotTables feeding the dashboard |
-| `Dashboard` | n/a | Final charts and KPIs |
 
 ---
 
