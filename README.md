@@ -1,4 +1,4 @@
-# ☕ Coffee Sales Analysis & Dashboard
+# Coffee Sales Analysis & Dashboard
 
 An end-to-end Excel analysis of 1,000 coffee order line items (Jan 2019 – Aug 2022), covering data cleaning, KPI calculation, and an interactive sales dashboard that shows where revenue comes from and which products and customers drive it.
 
