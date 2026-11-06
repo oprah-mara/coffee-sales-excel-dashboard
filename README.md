@@ -65,7 +65,6 @@ Source file: [`data/coffeeOrdersData.xlsx`](data/coffeeOrdersData.xlsx)
 ## 5. Tools & Technologies
 
 - **Microsoft Excel**: `XLOOKUP`, `INDEX`/`MATCH`, calculated columns, PivotTables, PivotCharts, slicers
-- **Python** (`pandas`, `matplotlib`): used to profile the data, verify the numbers, and generate the static dashboard preview image
 - **Git & GitHub**: version control and portfolio hosting
 
 ---
