@@ -2,7 +2,17 @@
 
 An end-to-end Excel analysis of 1,000 coffee order line items (Jan 2019 – Aug 2022), covering data cleaning, KPI calculation, and an interactive sales dashboard that shows where revenue comes from and which products and customers drive it.
 
-![Dashboard Preview](Screenshot%202026-11-06%20130841.png)
+## 📌 Project at a Glance
+
+| Category | Details |
+|---|---|
+| Project Type | Sales Analysis |
+| Tool | Microsoft Excel |
+| Dataset | 1,000 order line items |
+| Time Period | Jan 2019 – Aug 2022 |
+| Analysis | Sales, Products, Customers & Geography |
+| Deliverable | Interactive Excel Dashboard |
+
 ---
 ## 1. Project Overview
 
@@ -58,8 +68,7 @@ Source file: [`data/coffeeOrdersData.xlsx`](data/coffeeOrdersData.xlsx)
 | `TotalSales`, `CountryBySales`, `TopFiveCustomers` | n/a | PivotTables feeding the dashboard |
 | `Dashboard` | n/a | Final charts and KPIs |
 
-**Product ID format:** `<Coffee>-<Roast>-<Size>`, e.g. `R-M-1` = Robusta, Medium roast, 1 kg bag.
-
+![Dashboard Preview](Screenshot%202026-11-06%20130841.png)
 ---
 
 ## 5. Tools & Technologies
