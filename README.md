@@ -68,7 +68,6 @@ Source file: [`data/coffeeOrdersData.xlsx`](data/coffeeOrdersData.xlsx)
 | `TotalSales`, `CountryBySales`, `TopFiveCustomers` | n/a | PivotTables feeding the dashboard |
 | `Dashboard` | n/a | Final charts and KPIs |
 
-![Dashboard Preview](Screenshot%202026-11-06%20130841.png)
 ---
 
 ## 5. Tools & Technologies
@@ -138,7 +137,7 @@ The business is heavily dependent on the US market.
 
 ## 8. Dashboard Preview
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](Screenshot%202026-11-06%20130841.png)
 
 The Excel dashboard includes:
 - KPI cards (total sales, orders, customers, units)
