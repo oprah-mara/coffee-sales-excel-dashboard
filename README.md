@@ -143,3 +143,12 @@ The Excel dashboard includes:
 - Sales by country
 - Top 5 customers
 
+### Dashboard Features
+
+- Interactive slicers to filter sales data and explore different business segments.
+- KPI cards displaying total sales, orders, customers, and units sold.
+- Monthly sales trends by coffee type.
+- Sales performance by country.
+- Top 5 customers by sales.
+- PivotTables and PivotCharts supporting dynamic analysis.
+
