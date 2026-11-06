@@ -2,9 +2,8 @@
 
 An end-to-end Excel analysis of 1,000 coffee order line items (Jan 2019 – Aug 2022), covering data cleaning, KPI calculation, and an interactive sales dashboard that shows where revenue comes from and which products and customers drive it.
 
-![Dashboard Preview](Screenshot 2026-11-06 130841.png)
 ---
-
+![Dashboard Preview](Screenshot 2026-11-06 130841.png)
 ## 1. Project Overview
 
 This project analyzes order data from an online coffee retailer selling four coffee types (Arabica, Robusta, Excelsa, Liberica) in three roast levels and four bag sizes to customers in the United States, Ireland, and the United Kingdom.
