@@ -2,6 +2,8 @@
 
 An end-to-end Excel analysis of 1,000 coffee order line items (Jan 2019 – Aug 2022), covering data cleaning, KPI calculation, and an interactive sales dashboard that shows where revenue comes from and which products and customers drive it.
 
+![Dashboard Preview](Screenshot%202026-11-06%20130841.png)
+
 ## 📌 Project at a Glance
 
 | Category | Details |
@@ -132,16 +134,6 @@ The business is heavily dependent on the US market.
 5. **Review Robusta positioning or pricing.** It underperforms the other three types.
 
 ---
-
-## 8. Dashboard Preview
-
-![Dashboard Preview](Screenshot%202026-11-06%20130841.png)
-
-The Excel dashboard includes:
-- KPI cards (total sales, orders, customers, units)
-- Monthly sales trend by coffee type
-- Sales by country
-- Top 5 customers
 
 ### Dashboard Features
 
