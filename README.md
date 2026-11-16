@@ -59,7 +59,7 @@ Leadership has order-level data but no consolidated view of performance. The que
 
 ## 4. Dataset Description
 
-Source file: [`data/coffeeOrdersData.xlsx`](data/coffeeOrdersData.xlsx)
+Source file: [`coffeeOrdersData.xlsx`](coffeeOrdersData.xlsx)
 
 | Sheet | Rows | Description |
 |---|---|---|
